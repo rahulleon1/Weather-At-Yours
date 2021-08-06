@@ -1,2 +1,2 @@
 # Weather-Time-OpenWeatherApi
-<a>https://weather-at-yours.netlify.app/</a>
+<a target="_blank">https://weather-at-yours.netlify.app/</a>
